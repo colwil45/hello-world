@@ -23,16 +23,19 @@ cd hello-world
 # Make your changes to files
 git add .
 git commit -m "Your commit message here"
-git push
+git push -u origin main
 ```
 
 ### Create a branch
 ```bash
+# Create and switch to a new branch
 git checkout -b your-branch-name
+# (or use the newer command: git switch -c your-branch-name)
+
 # Make your changes
 git add .
 git commit -m "Your changes"
-git push origin your-branch-name
+git push -u origin your-branch-name
 ```
 
 ## Resources for Beginners
