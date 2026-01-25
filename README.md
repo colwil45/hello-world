@@ -23,7 +23,7 @@ cd hello-world
 # Make your changes to files
 git add .
 git commit -m "Your commit message here"
-git push -u origin main
+git push -u origin main  # Push to your fork's main branch
 ```
 
 ### Create a branch
@@ -42,8 +42,8 @@ git push -u origin your-branch-name
 
 Here are some helpful resources to learn more:
 
-- **Git Basics**: [GitHub's Git Handbook](https://guides.github.com/introduction/git-handbook/)
-- **GitHub Flow**: [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+- **Git Basics**: [GitHub's Git Handbook](https://docs.github.com/en/get-started/using-git/about-git)
+- **GitHub Flow**: [Understanding the GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 - **Markdown Guide**: [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - **First Contributions**: [How to contribute to open source](https://github.com/firstcontributions/first-contributions)
 
